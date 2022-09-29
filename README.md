@@ -1,4 +1,4 @@
-### Hi I'm Michael Gummere
+### Hi I'm Chrono
 
 - 🔭 I’m currently working on the robotics team 7701F competing in VRC
 - 🌱 I’m currently learning about C++ and (???)
