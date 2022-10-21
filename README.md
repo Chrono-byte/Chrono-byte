@@ -11,5 +11,3 @@ Even better: do not perceive me.
 For practical purposes, I don't exist.
 
 Pronouns: he/him and they/them
-
-I'm involved with some controversial project but I'm trying to just keep them on the straight and narrow path.
