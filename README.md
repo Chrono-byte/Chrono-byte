@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/25267581/199243941-72f80331-534f-4bf4-913b-c2f90deb2708.png)
+
 ### Hi I'm Chrono
 
 - 🔭 I’m currently working on a robotics team competing in VRC
