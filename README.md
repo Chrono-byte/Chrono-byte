@@ -7,5 +7,6 @@ I'm a software developer / engineering student and a incoming freshman at Purdue
 - 🤖 4 years of experience competing in the [VEX Robotics Competition](https://robotevents.com/teams/view/7701F) as a team programmer and designer.
 - 🌱 I’m currently learning about RESTful APIs and WebSockets to build a real-time chat application from scratch.
 - 📫 If you want to reach me, you can email, or DM me on Discord at chrono#8108. I'm always open to talking about almost anything.
+- 📝 Resume and other information can be found on my [website](https://disilla.org).
   
 Email: chrono@disilla.org | [PGP](https://keys.openpgp.org/vks/v1/by-fingerprint/D73F4017A24C6C5EBB7FD91BEDB6B1C6279BD018)
