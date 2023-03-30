@@ -12,10 +12,10 @@ jobs:
         with:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
-          user: austinhuang0131
+          user: Chrono-byte
           use_prebuilt_image: yes
           template: classic
-          config_timezone: America/Montreal
+          config_timezone: America/Indiana
           plugin_lines: yes
           plugin_stargazers: yes
           config_padding: 16, 48
