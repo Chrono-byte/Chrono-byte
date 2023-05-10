@@ -1,4 +1,4 @@
-### Hi I'm Chrono
+### Hi I'm Chrono.
 
 I'm a software developer/engineering student and a soon-to-be freshman at IUPUI. I'm currently working on a real-time chat application from scratch using Node.js, and WebSockets. I competed in the VEX Robotics Competition for 4 years as a programmer and designer. My team worked hard in the incredibly difficult Indiana region and managed to qualify for the State Championship in 2023 and fell just short of qualifying for the World Championship. I've been programming for 7 years and have experience with C++, JavaScript, and some light TypeScript and Python knowledge. I hope to one day work in motorsports in stage rally or open wheel racing.
 
