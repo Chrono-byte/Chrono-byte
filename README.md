@@ -1,6 +1,6 @@
 ### Hi I'm Chrono.
 
-I am a software developer and freshman at IUPUI. With 7 years of programming experience, I possess a wide range of skills including C++, JavaScript, and some light TypeScript and Python knowledge.
+I am a hobbyist software developer and freshman at IUPUI. With 7 years of programming experience, I possess a wide range of skills including C++, JavaScript, and some light TypeScript and Python knowledge.
 
 - 🤖 4 years of experience competing as a team programmer and designer in the [VEX Robotics Competition](https://robotevents.com/teams/view/7701F).
 - 🌱 I’m currently learning about RESTful APIs and WebSockets to build a real-time chat application from scratch.
