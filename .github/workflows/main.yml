@@ -17,7 +17,7 @@ jobs:
           template: classic
           config_timezone: America/Indiana
           plugin_lines: yes
-          plugin_stargazers: yes
+          plugin_stargazers: no
           config_padding: 16, 48
           # base
           base: header, activity, community, repositories, metadata
@@ -30,11 +30,11 @@ jobs:
           # habits
           plugin_habits: yes
           plugin_habits_from: 1000       # Use 200 events to compute habits
-          plugin_habits_days: 14        # Keep only events from last 14 days
+          plugin_habits_days: 7        # Keep only events from last 14 days
           plugin_habits_facts: yes      # Display facts section
           plugin_habits_charts: yes     # Display charts section
           # reactions
-          plugin_reactions: yes
+          plugin_reactions: no
           plugin_reactions_display: absolute
           plugin_reactions_ignored: github-actions[bot], dependabot[bot]
           plugin_reactions_limit: 200
