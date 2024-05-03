@@ -1,10 +1,8 @@
 ### Hi I'm Chrono.
 
- Hi I'm Michael. I am a student at Indiana University Indianapolis.
+Hi I'm Michael. I am a student at Indiana University Indianapolis.
 
- I'm a self-taught software developer and have worked on a variety of different projects that interested me. I have used Linux-based computers for 5 years. I have been doing computer programming for 8 years and have experience with TypeScript, C++. I've worked on a few websites and Discord chat bots as well as a chat app named boiler.
-
- During my time in high school, I competed in the VEX Robotics Competition as a programmer and designer for my team. We worked hard in the incredibly difficult Indiana region and managed to qualify for the State Championship in 2023.
+I'm a self-taught software developer and have worked on a variety of different projects that interested me. I have used Linux-based computers for 5 years. I have been doing computer programming for 8 years and have experience with TypeScript, C++. I've worked on a few websites and Discord chat bots as well as several hobby chat servers.
 
 - 🤖 4 years of experience competing as a team programmer and designer in the [VEX Robotics Competition](https://robotevents.com/teams/view/7701F).
 - 🌱 I’m currently learning about RESTful APIs and WebSockets to build a real-time chat application from scratch.
