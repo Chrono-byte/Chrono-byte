@@ -1,7 +1,3 @@
-<!-- ![image](https://github.com/Chrono-byte/Chrono-byte/blob/99daac849958a506292192bea505347c0c34615b/greetings.png) -->
+I'm a software developer and computer science student at Indiana University Indianapolis. I work mainly with TypeScript, C++, and Rust. I also play Overwatch and manage IUI’s Overwatch esports program.
 
-Hello! I'm a software developer and computer science student at Indiana University Indianapolis. I enjoy building creative and meaningful projects with code. My favorite languages include TypeScript, C++, and Rust. When I'm not coding, I participate and manage the Overwatch eSports program at IUI, for which I built a custom scheduling platform to help keep everything organized.
-
-<!-- 🌱 I’m currently learning about . -->
-- 📫 If you want to reach me, you can email.
-- 📝 Resume and other information can be found on my [website](https://unknownhost.name).
+You can reach me by email. My résumé and projects are on my website.
